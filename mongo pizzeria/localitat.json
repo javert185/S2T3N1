@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "645f802945c294c7cd37244f"
+  },
+  "nom": "Badalona",
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  }
+},{
+  "_id": {
+    "$oid": "645f803545c294c7cd372450"
+  },
+  "nom": "Manresa",
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  }
+},{
+  "_id": {
+    "$oid": "645f805345c294c7cd372451"
+  },
+  "nom": "Amposta",
+  "provincia": {
+    "$oid": "645f7ff845c294c7cd37244d"
+  }
+},{
+  "_id": {
+    "$oid": "645f806545c294c7cd372452"
+  },
+  "nom": "Banyoles",
+  "provincia": {
+    "$oid": "645f7fed45c294c7cd37244c"
+  }
+},{
+  "_id": {
+    "$oid": "645f808345c294c7cd372453"
+  },
+  "nom": "Sort",
+  "provincia": {
+    "$oid": "645f7fff45c294c7cd37244e"
+  }
+},{
+  "_id": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "nom": "Barcelona",
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  }
+}]

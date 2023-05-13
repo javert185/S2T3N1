@@ -1,0 +1,34 @@
+[{
+  "_id": {
+    "$oid": "645f91bf45c294c7cd372465"
+  },
+  "comanda": {
+    "$oid": "645f905345c294c7cd372462"
+  },
+  "producte": {
+    "$oid": "645f88b945c294c7cd37245b"
+  },
+  "quantitat": 2
+},{
+  "_id": {
+    "$oid": "645f91e545c294c7cd372466"
+  },
+  "comanda": {
+    "$oid": "645f908745c294c7cd372463"
+  },
+  "producte": {
+    "$oid": "645f88d445c294c7cd37245c"
+  },
+  "quantitat": 1
+},{
+  "_id": {
+    "$oid": "645f920e45c294c7cd372467"
+  },
+  "comanda": {
+    "$oid": "645f90cb45c294c7cd372464"
+  },
+  "producte": {
+    "$oid": "645f890f45c294c7cd37245e"
+  },
+  "quantitat": 1
+}]

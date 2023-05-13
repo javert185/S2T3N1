@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "645f8c8445c294c7cd37245f"
+  },
+  "nom": "Cristina",
+  "cognom1": "Madrid",
+  "NIF": "75443654K",
+  "telefon": 534554232,
+  "treball": "repartidor"
+},{
+  "_id": {
+    "$oid": "645f8c9d45c294c7cd372460"
+  },
+  "nom": "Joan",
+  "cognom1": "Tulli",
+  "NIF": "75443898E",
+  "telefon": 534554211,
+  "treball": "repartidor"
+},{
+  "_id": {
+    "$oid": "645f8cba45c294c7cd372461"
+  },
+  "nom": "Marta",
+  "cognom1": "Melos",
+  "NIF": "56732148J",
+  "telefon": 534554213,
+  "treball": "repartidor"
+}]

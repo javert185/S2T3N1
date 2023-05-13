@@ -1,0 +1,58 @@
+[{
+  "_id": {
+    "$oid": "645f3822b5b02a1088696862"
+  },
+  "nom": "General Optica",
+  "adreça": [
+    {
+      "carrer": "Plaça Francesc Macia",
+      "numero": 8,
+      "pis": 1,
+      "porta": 2,
+      "ciutat": "Barcelona",
+      "codi_postal": "08029",
+      "pais": "Espanya"
+    }
+  ],
+  "telefon": 933223452,
+  "fax": 933223452,
+  "nif": "A08119687"
+},{
+  "_id": {
+    "$oid": "645f3c2f45c294c7cd372437"
+  },
+  "nom": "Clottet Optica",
+  "adreça": [
+    {
+      "carrer": "Carrer Francesc Perez Cabrero",
+      "numero": 6,
+      "pis": 0,
+      "porta": 1,
+      "ciutat": "Barcelona",
+      "codi_postal": "08021",
+      "pais": "Espanya"
+    }
+  ],
+  "telefon": 932014921,
+  "fax": 932014921,
+  "nif": "A28064723"
+},{
+  "_id": {
+    "$oid": "645f3dbc45c294c7cd372438"
+  },
+  "nom": "Optica Chich",
+  "adreça": [
+    {
+      "carrer": "Avinguda de Sarria",
+      "numero": 21,
+      "pis": 0,
+      "porta": 1,
+      "ciutat": "Barcelona",
+      "codi_postal": "08029",
+      "pais": "Espanya"
+    }
+  ],
+  "telefon": 934399609,
+  "fax": 934399609,
+  "nif": "A28066342"
+}]

@@ -1,0 +1,29 @@
+[{
+  "_id": {
+    "$oid": "645f88b945c294c7cd37245b"
+  },
+  "nom": "Hamburguesa Vegana",
+  "descripcio": "El pa també es vert",
+  "preu": 8
+},{
+  "_id": {
+    "$oid": "645f88d445c294c7cd37245c"
+  },
+  "nom": "Pizza Napoletana",
+  "descripcio": "Portada amb Glovo des de Napols",
+  "preu": 12
+},{
+  "_id": {
+    "$oid": "645f88eb45c294c7cd37245d"
+  },
+  "nom": "CocaCola",
+  "descripcio": "Cocacola",
+  "preu": 2
+},{
+  "_id": {
+    "$oid": "645f890f45c294c7cd37245e"
+  },
+  "nom": "Hamburguesa Americana",
+  "descripcio": "El doble de tot, també el doble de preu",
+  "preu": 16
+}]

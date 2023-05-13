@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "645f7cd045c294c7cd372445"
+  },
+  "nom": "Cristina Madrid"
+},{
+  "_id": {
+    "$oid": "645f7ce645c294c7cd372446"
+  },
+  "nom": "Joan Trulli"
+},{
+  "_id": {
+    "$oid": "645f7cf345c294c7cd372447"
+  },
+  "nom": "Marta Ventos"
+}]

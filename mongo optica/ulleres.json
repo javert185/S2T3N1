@@ -1,0 +1,66 @@
+[{
+  "_id": {
+    "$oid": "645f3fdf45c294c7cd372439"
+  },
+  "marca": "Polaroid",
+  "grad_es": 1.5,
+  "grad_dr": 1.75,
+  "tipus": "flotant",
+  "color": "verd",
+  "preu": 80,
+  "proveidor": {
+    "$oid": "645f3dbc45c294c7cd372438"
+  }
+},{
+  "_id": {
+    "$oid": "645f401045c294c7cd37243a"
+  },
+  "marca": "Oakley",
+  "grad_es": 2,
+  "grad_dr": 2.5,
+  "tipus": "flotant",
+  "color": "blau",
+  "preu": 110,
+  "proveidor": {
+    "$oid": "645f3c2f45c294c7cd372437"
+  }
+},{
+  "_id": {
+    "$oid": "645f403445c294c7cd37243b"
+  },
+  "marca": "Ray Ban",
+  "grad_es": 3,
+  "grad_dr": 2.5,
+  "tipus": "flotant",
+  "color": "blau",
+  "preu": 130,
+  "proveidor": {
+    "$oid": "645f3822b5b02a1088696862"
+  }
+},{
+  "_id": {
+    "$oid": "645f405845c294c7cd37243c"
+  },
+  "marca": "Ray Ban",
+  "grad_es": 1.5,
+  "grad_dr": 2,
+  "tipus": "pasta",
+  "color": "blau",
+  "preu": 100,
+  "proveidor": {
+    "$oid": "645f3822b5b02a1088696862"
+  }
+},{
+  "_id": {
+    "$oid": "645f406d45c294c7cd37243d"
+  },
+  "marca": "Carrera",
+  "grad_es": 2,
+  "grad_dr": 2,
+  "tipus": "pasta",
+  "color": "blau",
+  "preu": 90,
+  "proveidor": {
+    "$oid": "645f3822b5b02a1088696862"
+  }
+}]

@@ -1,0 +1,48 @@
+[{
+  "_id": {
+    "$oid": "645f836945c294c7cd372455"
+  },
+  "nom": "Ambar",
+  "cognom1": "Querol",
+  "cognom2": "Pitarch",
+  "codi_postal": "08036",
+  "localitat": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  },
+  "telefon": 635297987,
+  "adreça": "Carrer de Mallorca n180 2n 1a"
+},{
+  "_id": {
+    "$oid": "645f83dd45c294c7cd372456"
+  },
+  "nom": "Nikki",
+  "cognom1": "Harasta",
+  "codi_postal": "08290",
+  "localitat": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  },
+  "telefon": 634497987,
+  "adreça": "Carrer Felicia Xarau n80 1n 3a"
+},{
+  "_id": {
+    "$oid": "645f843d45c294c7cd372457"
+  },
+  "nom": "Silvia",
+  "cognom1": "Montagnani",
+  "cognom2": "Marot",
+  "codi_postal": "08012",
+  "localitat": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  },
+  "telefon": 634497988,
+  "adreça": "Carrer de Torrent de l'Olla n10 1n 3a"
+}]

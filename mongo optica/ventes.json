@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "645f7d6345c294c7cd372448"
+  },
+  "ulleres": {
+    "$oid": "645f406d45c294c7cd37243d"
+  },
+  "empleat": {
+    "$oid": "645f7cd045c294c7cd372445"
+  },
+  "client": {
+    "$oid": "645f7b9a45c294c7cd372442"
+  }
+},{
+  "_id": {
+    "$oid": "645f7dfd45c294c7cd372449"
+  },
+  "ulleres": {
+    "$oid": "645f405845c294c7cd37243c"
+  },
+  "empleat": {
+    "$oid": "645f7ce645c294c7cd372446"
+  },
+  "client": {
+    "$oid": "645f3fdf45c294c7cd372439"
+  }
+},{
+  "_id": {
+    "$oid": "645f7e3c45c294c7cd37244a"
+  },
+  "ulleres": {
+    "$oid": "645f401045c294c7cd37243a"
+  },
+  "empleat": {
+    "$oid": "645f7cf345c294c7cd372447"
+  },
+  "client": {
+    "$oid": "645f7be445c294c7cd372444"
+  }
+}]

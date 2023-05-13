@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "645f905345c294c7cd372462"
+  },
+  "date": {
+    "$date": "2023-05-13T13:27:47.525Z"
+  },
+  "lliurament": "domicili",
+  "client": {
+    "$oid": "645f836945c294c7cd372455"
+  },
+  "empleat": {
+    "$oid": "645f8c8445c294c7cd37245f"
+  },
+  "botiga": {
+    "$oid": "645f87c045c294c7cd372458"
+  }
+},{
+  "_id": {
+    "$oid": "645f908745c294c7cd372463"
+  },
+  "date": {
+    "$date": "2023-05-13T13:28:39.192Z"
+  },
+  "lliurament": "domicili",
+  "client": {
+    "$oid": "645f83dd45c294c7cd372456"
+  },
+  "empleat": {
+    "$oid": "645f8c9d45c294c7cd372460"
+  },
+  "botiga": {
+    "$oid": "645f881a45c294c7cd372459"
+  }
+},{
+  "_id": {
+    "$oid": "645f90cb45c294c7cd372464"
+  },
+  "date": {
+    "$date": "2023-05-13T13:29:47.400Z"
+  },
+  "lliurament": "domicili",
+  "client": {
+    "$oid": "645f843d45c294c7cd372457"
+  },
+  "empleat": {
+    "$oid": "645f8cba45c294c7cd372461"
+  },
+  "botiga": {
+    "$oid": "645f885a45c294c7cd37245a"
+  }
+}]

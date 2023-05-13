@@ -1,0 +1,67 @@
+[{
+  "_id": {
+    "$oid": "645f7b9a45c294c7cd372442"
+  },
+  "nom": "Xavier",
+  "cognom1": "Aran",
+  "cognom2": "Colomer",
+  "adreça": [
+    {
+      "carrer": "Carrer de Capità Arenas",
+      "numero": 76,
+      "pis": 3,
+      "porta": 2,
+      "ciutat": "Barcelona",
+      "codi_postal": "08017",
+      "pais": "Espanya"
+    }
+  ],
+  "telefon": 679857777,
+  "correu": "xavieraran@gmail.com",
+  "data": "13/05/2023"
+},{
+  "_id": {
+    "$oid": "645f7bcc45c294c7cd372443"
+  },
+  "nom": "Jordi",
+  "cognom1": "Danes",
+  "cognom2": "Vazquez",
+  "adreça": [
+    {
+      "carrer": "Carrer de Marina",
+      "numero": 134,
+      "pis": 2,
+      "porta": 1,
+      "ciutat": "Barcelona",
+      "codi_postal": "08013",
+      "pais": "Espanya"
+    }
+  ],
+  "telefon": 679856534,
+  "correu": "jordidanes@gmail.com",
+  "data": "13/05/2023",
+  "client": {
+    "$oid": "645f7b9a45c294c7cd372442"
+  }
+},{
+  "_id": {
+    "$oid": "645f7be445c294c7cd372444"
+  },
+  "nom": "Juan",
+  "cognom1": "Tavares",
+  "cognom2": "Molina",
+  "adreça": [
+    {
+      "carrer": "Carrer de Gosol",
+      "numero": 18,
+      "pis": 3,
+      "porta": 2,
+      "ciutat": "Barcelona",
+      "codi_postal": "08017",
+      "pais": "Espanya"
+    }
+  ],
+  "telefon": 736298456,
+  "correu": "juantavares@gmail.com",
+  "data": "13/05/2023"
+}]

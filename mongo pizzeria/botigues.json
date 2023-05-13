@@ -1,0 +1,40 @@
+[{
+  "_id": {
+    "$oid": "645f87c045c294c7cd372458"
+  },
+  "nom": "Ok de sarria",
+  "adreça": "Carrer de Jaume Piquet 18",
+  "codi_postal": 8017,
+  "localitat": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  }
+},{
+  "_id": {
+    "$oid": "645f881a45c294c7cd372459"
+  },
+  "nom": "Pizzeria da Nanni",
+  "adreça": "Carrer del Rec n30",
+  "codi_postal": 8003,
+  "localitat": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  }
+},{
+  "_id": {
+    "$oid": "645f885a45c294c7cd37245a"
+  },
+  "nom": "Grosso Napoletano",
+  "adreça": "Carrer de Casanova n209",
+  "codi_postal": 8021,
+  "localitat": {
+    "$oid": "645f809745c294c7cd372454"
+  },
+  "provincia": {
+    "$oid": "645f7fe545c294c7cd37244b"
+  }
+}]
